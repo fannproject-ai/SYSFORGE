@@ -1,0 +1,5 @@
+{
+  "name": "SysAdmin AI Forge",
+  "description": "Pendamping administrasi Linux bertenaga AI. Konfigurasikan variabel lingkungan Anda dan buat perintah presisi untuk server Debian/Ubuntu, mencakup jaringan, server web, mail stack, dan banyak lagi. Fitur Gemini 2.5 dan 3.0 (Mode Berpikir) untuk pembuatan konfigurasi yang kompleks.",
+  "requestFramePermissions": []
+}
